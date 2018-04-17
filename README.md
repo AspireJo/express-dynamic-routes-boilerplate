@@ -1,6 +1,6 @@
 # express-dynamic-routes-boilerplate
 
-A sample of how to use [express-route-generator](https://www.npmjs.com/package/@aspire-jo/express-route-generator).
+A sample of how to use [express-route-generator](https://www.npmjs.com/package/@aspirejo/express-route-generator).
 
 ## Project structure
 

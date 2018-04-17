@@ -1,7 +1,7 @@
 {
-  "name": "express-dynamic-routes-boilerplate",
+  "name": "@aspirejo/express-dynamic-routes-boilerplate",
   "version": "1.0.0",
-  "description": "boilerplate project using @aspire-jo/express-route-generator",
+  "description": "boilerplate project using @aspirejo/express-route-generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspire-jo/express-dynamic-routes-boilerplate.git"
+    "url": "git+https://github.com/AspireJo/express-dynamic-routes-boilerplate.git"
   },
   "keywords": [
     "aspire",
@@ -21,16 +21,16 @@
   "author": "aspire",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aspire-jo/express-dynamic-routes-boilerplate/issues"
+    "url": "https://github.com/AspireJo/express-dynamic-routes-boilerplate/issues"
   },
-  "homepage": "https://github.com/aspire-jo/express-dynamic-routes-boilerplate#readme",
+  "homepage": "https://github.com/AspireJo/express-dynamic-routes-boilerplate#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "@aspire-jo/express-route-generator": "^0.1.0",
+    "@aspirejo/express-route-generator": "^0.1.0",
     "express": "^4.16.3"
   }
 }

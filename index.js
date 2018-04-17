@@ -1,5 +1,5 @@
 import express from 'express';
-import generator from '@aspire-jo/express-route-generator';
+import generator from '@aspirejo/express-route-generator';
 import config from './config';
 
 const app = express();
