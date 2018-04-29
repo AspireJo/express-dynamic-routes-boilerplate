@@ -1,3 +1,10 @@
+/**
+ * Get Groups list
+ * @returns {group[]}
+ * @property {string} tags - Groups
+ * @property {string} route - /groups
+ * @property {string} responseCodes - 204
+ */
 export function controller(req, res) {
   return res.json([
     {

@@ -1,3 +1,10 @@
+/**
+ * Get Users list
+ * @returns {user[]}
+ * @property {string} tags - Users
+ * @property {string} route - /users
+ * @property {string} responseCodes - 204
+ */
 export function controller(req, res) {
   return res.json([
     {

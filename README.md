@@ -51,6 +51,9 @@ defined in the `config/index.js` --> `versionSettings.v1` --> `middlewares` & `p
 ### route
 defined in `app/api/*/_get.v2.js` --> `middlewares` property, reads the value of the `id` param and sets it in `req.idParam` object
 
+### APIs swagger documentation
+Endpoint documentation generated using [@aspirejo/swagger-generator-express](https://www.npmjs.com/package/@aspirejo/swagger-generator-express) and the presentation UI is generated using [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express), url is : `http://localhost:3000/api-docs/`
+
 # Run
 execute 
 > ``` shell
